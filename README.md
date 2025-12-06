@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aaditya Yadav 👋</h1>
+<h1 align="center">Hi, I'm Aaditya Yadav 🐈‍⬛</h1>
 
 <p align="center">
   <strong>Computer Science Engineer | ML & AI Developer | Deep Learning Enthusiast</strong>
@@ -15,7 +15,7 @@
   <a href="mailto:aady10748@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Aadityayadav786">
+  <a href="https://github.com/Aadityayadav333">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -70,17 +70,21 @@
 - 💬 Interactive chatbot for herbal queries
 - 🎯 Personalized suggestions based on user health profile
 
-**Links:**
-- 🔗 [Recommendation System](https://dashboard.render.com/web/srv-cusu2n7noe9s73947q1g)
-- 🔗 [Chatbot Interface](https://virtualherbalchatbot-hmpdf2dugzccczddqktgt3.streamlit.app/#dd52812e)
-
 ---
 
-## 📊 GitHub Stats
+## 🔗 Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadityayadav786&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+### 🚀 Applications
+- **[Recommendation System](https://dashboard.render.com/web/srv-cusu2n7noe9s73947q1g)** - Smart recommendation engine
+- **[Chatbot Interface](https://virtualherbalchatbot-hmpdf2dugzccczddqktgt3.streamlit.app/#dd52812e)** - Virtual herbal assistant
+
+### 🕹️ Game Collection
+1. **[Zombie Fly Game](https://aadityayadav333.github.io/SuperFly-Game/)** 
+2. **[Bird Runner Game](https://grand-frangipane-c2091a.netlify.app/)** 
+3. **[Tetris Game](https://aadityayadav333.github.io/Tetris-Responsive/)** 
+4. **[Naruto Fight Game](https://aadityayadav333.github.io/Naruto-Game-2.0/)** 
+5. **[Bubble Game](https://aadityayadav333.github.io/Bubble-Game-/)** 
+
 
 ---
 
