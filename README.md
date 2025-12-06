@@ -79,11 +79,11 @@
 - **[Chatbot Interface](https://virtualherbalchatbot-hmpdf2dugzccczddqktgt3.streamlit.app/#dd52812e)** - Virtual herbal assistant
 
 ### 🕹️ Game Collection
-1. **[Zombie Fly Game](https://aadityayadav333.github.io/SuperFly-Game/)** 
+1. **[Zombie Fly Game](https://zombiefly.netlify.app/)** 
 2. **[Bird Runner Game](https://grand-frangipane-c2091a.netlify.app/)** 
-3. **[Tetris Game](https://aadityayadav333.github.io/Tetris-Responsive/)** 
-4. **[Naruto Fight Game](https://aadityayadav333.github.io/Naruto-Game-2.0/)** 
-5. **[Bubble Game](https://aadityayadav333.github.io/Bubble-Game-/)** 
+3. **[Tetris Game](https://tetrisgamepygame.netlify.app/)** 
+4. **[Naruto Fight Game](https://narutogamepygame.netlify.app/)** 
+5. **[Bubble Game](https://bubblegameop.netlify.app/)** 
 
 
 ---
