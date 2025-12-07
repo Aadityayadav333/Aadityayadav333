@@ -75,6 +75,7 @@
 ## 🔗 Links
 
 ### 🚀 Applications
+- **[Real Estate Chatbot](https://68v2lseqnfl7rivz4qf7ygh.streamlit.app/)** - Chatbot to know about any localities real estate market
 - **[Recommendation System](https://dashboard.render.com/web/srv-cusu2n7noe9s73947q1g)** - Smart recommendation engine
 - **[Chatbot Interface](https://virtualherbalchatbot-hmpdf2dugzccczddqktgt3.streamlit.app/#dd52812e)** - Virtual herbal assistant
 
