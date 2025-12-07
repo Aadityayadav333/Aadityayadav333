@@ -81,8 +81,8 @@
 ### 🕹️ Game Collection
 1. **[Zombie Fly Game](https://zombiefly.netlify.app/)** 
 2. **[Bird Runner Game](https://grand-frangipane-c2091a.netlify.app/)** 
-3. **[Tetris Game](https://tetrisgamepygame.netlify.app/)** 
-4. **[Naruto Fight Game](https://narutogamepygame.netlify.app/)** 
+3. **[Tetris Game](https://tetris-responsive.vercel.app/)** 
+4. **[Naruto Fight Game](https://narutogamepygame.versal.app/)** 
 5. **[Bubble Game](https://bubblegameop.netlify.app/)** 
 
 
