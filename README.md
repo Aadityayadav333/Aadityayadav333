@@ -84,7 +84,8 @@
 2. **[Bird Runner Game](https://grand-frangipane-c2091a.netlify.app/)** 
 3. **[Tetris Game](https://tetris-responsive.vercel.app/)** 
 4. **[Naruto Fight Game](https://narutogamepygame.versal.app/)** 
-5. **[Bubble Game](https://bubblegameop.netlify.app/)** 
+5. **[Bubble Game](https://bubblegameop.netlify.app/)**
+6. **[Ninja Game](https://ninjagamebypygame.vercel.app/)**
 
 
 ---
